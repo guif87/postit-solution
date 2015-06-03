@@ -1,5 +1,5 @@
 #Using Concerns
-module Voteable
+module VoteableFavero
   extend ActiveSupport::Concern
 
   included do

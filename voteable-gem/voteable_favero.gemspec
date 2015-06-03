@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = "voteable_favero"
-  s.version = "0.0.2"
+  s.version = "0.0.3"
   s.date = "2015-06-01"
   s.summary = "A voting gem"
   s.description = "Favero's voting gem made during course 2 on gotealeaf.com"
